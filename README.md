@@ -4,15 +4,20 @@
 
 My name is Ricky Cahyadi Halim Jo, I'm currently studying GMBA course as a master student in Tunghai University, Taiwan.
 
-![This is an image](http://eng.thu.edu.tw/upload_files/01_panorama2_2_700_2.jpg)
+/assets/images/01_panorama2_2_700_2.jpg
+
+![tunghai](images\tunghai.jpg)
 
 ## **Education** ##
 
 Experienced Graphic Designer with a demonstrated history of working in the consumer goods industry. Skilled in English, Brand Design, Adobe Photoshop, Vector, and Vector Illustration. Strong arts and design professional with a Bachelor of Design focused in Graphic Design from Universitas Multimedia Nusantara. 
 
 ## **Experiences** ##
+- **MJ Coffee & Tea**
 
-1. MJ Coffee & Tea
+Art Director
+- **Delamibrands**
+- **Harapan Maju Indah**
 
 Art Director
 
