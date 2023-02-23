@@ -1,4 +1,4 @@
-# **HI THERE!** #
+# **Hola Amigos** #
 
 ## **About Me** ##
 
@@ -32,9 +32,13 @@ Full time Graphic Designer for Pet related products
 
 My hobbies are mostly nature related activities, such as Hiking, Camping. Trekking, Snorkling, Diving, and many more.
 
-*Here's a picture of my dog in case you guys are interested*
+----------------------------------------------
+
+*Anyway here's a picture of my dog in case you guys are interested*
 
 ![my dawg](images/121974.jpg)
+
+# __*CIAO*__ #
 
 <!--
 **rickycahyadi24/rickycahyadi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
