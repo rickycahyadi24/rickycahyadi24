@@ -2,9 +2,7 @@
 
 ## **About Me** ##
 
-My name is Ricky Cahyadi Halim Jo, I'm currently studying GMBA course as a master student in Tunghai University, Taiwan.
-
-/assets/images/01_panorama2_2_700_2.jpg
+My name is Ricky Cahyadi Halim Jo, I'm a 24 years old student from Indonesia, Jakarta. Currently I'm studying GMBA course in Tunghai University, Taiwan.
 
 ![tunghai](images\tunghai.jpg)
 
@@ -13,17 +11,23 @@ My name is Ricky Cahyadi Halim Jo, I'm currently studying GMBA course as a maste
 Experienced Graphic Designer with a demonstrated history of working in the consumer goods industry. Skilled in English, Brand Design, Adobe Photoshop, Vector, and Vector Illustration. Strong arts and design professional with a Bachelor of Design focused in Graphic Design from Universitas Multimedia Nusantara. 
 
 ## **Experiences** ##
-- **MJ Coffee & Tea**
+- **MJ Coffee & Tea**  
+_*Sep 2018 - Dec 2018*_  
+Art Director & Content Creator for coffee shop MJ Coffee & Tea
 
-Art Director
-- **Delamibrands**
-- **Harapan Maju Indah**
+- **Delamibrands**  
+_*Aug 2019 - Nov 2019*_  
+Internship program at Delamibrands' Product Development division.
 
-Art Director
+- **Harapan Maju Indah**    
+_*Oct 2020 - Aug 2022*_    
+Full time Graphic Designer for Pet related products
 
+## **Hobbies** ##
 
+My hobbies are mostly nature related activities, such as Hiking, Camping. Trekking, Snorkling, Diving, and many more.
 
-A picture of my dog in case you guys are interested
+*Here's a picture of my dog in case you guys are interested*
 
 ![my dawg](images\121974.jpg)
 
