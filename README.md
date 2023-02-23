@@ -4,7 +4,7 @@
 
 My name is Ricky Cahyadi Halim Jo, I'm a 24 years old student from Indonesia, Jakarta. Currently I'm studying GMBA course in Tunghai University, Taiwan.
 
-![tunghai](images/tunghai.JPG)
+![tunghai](images/tunghai.jpg)
 
 ## **Education** ##
 
