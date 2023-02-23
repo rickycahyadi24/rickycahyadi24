@@ -24,7 +24,7 @@ Art Director & Content Creator for coffee shop MJ Coffee & Tea
 _*Aug 2019 - Nov 2019*_  
 Internship program at Delamibrands' Product Development division.
 
-- **Harapan Maju Indah**    
+- **BISFOODS INDONESIA**    
 _*Oct 2020 - Aug 2022*_    
 Full time Graphic Designer for Pet related products
 
