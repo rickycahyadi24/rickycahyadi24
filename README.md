@@ -4,7 +4,7 @@
 
 My name is Ricky Cahyadi Halim Jo, I'm a 24 years old student from Indonesia, Jakarta. Currently I'm studying GMBA course in Tunghai University, Taiwan.
 
-![tunghai](images\tunghai.jpg)
+![tunghai](images/tunghai.JPG)
 
 ## **Education** ##
 
@@ -29,7 +29,7 @@ My hobbies are mostly nature related activities, such as Hiking, Camping. Trekki
 
 *Here's a picture of my dog in case you guys are interested*
 
-![my dawg](images\121974.jpg)
+![my dawg](images/121974.jpg)
 
 <!--
 **rickycahyadi24/rickycahyadi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
