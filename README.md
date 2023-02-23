@@ -6,7 +6,7 @@ My name is Ricky Cahyadi Halim Jo, I'm currently studying GMBA course as a maste
 
 ![This is an image](http://eng.thu.edu.tw/upload_files/01_panorama2_2_700_2.jpg)
 
-## **Abc** ##
+## **Education** ##
 
 Experienced Graphic Designer with a demonstrated history of working in the consumer goods industry. Skilled in English, Brand Design, Adobe Photoshop, Vector, and Vector Illustration. Strong arts and design professional with a Bachelor of Design focused in Graphic Design from Universitas Multimedia Nusantara. 
 
@@ -20,7 +20,7 @@ Art Director
 
 A picture of my dog in case you guys are interested
 
-![my dawg](d:/121974.jpg)
+![my dawg](images\121974.jpg)
 
 <!--
 **rickycahyadi24/rickycahyadi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
