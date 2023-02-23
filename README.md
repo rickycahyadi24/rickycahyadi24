@@ -16,6 +16,10 @@ Experienced Graphic Designer with a demonstrated history of working in the consu
 
 Art Director
 
+A picture of my dog in case you guys are interested
+
+![Alt text](d:/121974.jpg)
+
 <!--
 **rickycahyadi24/rickycahyadi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
