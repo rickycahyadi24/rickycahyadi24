@@ -6,6 +6,8 @@ My name is Ricky Cahyadi Halim Jo, I'm a 24 years old student from Indonesia, Ja
 
 ![tunghai](images/tunghai.jpg)
 
+![abc](images/121974.jpg)
+
 I'm an Experienced Graphic Designer with a demonstrated history of working in the consumer goods industry. Skilled in English, Brand Design, Adobe Photoshop, Vector, and Vector Illustration. Strong arts and design professional with a Bachelor of Design focused in Graphic Design from Universitas Multimedia Nusantara. 
 
 ## **Short History** ##
