@@ -17,15 +17,15 @@ After graduating from my college, I got accepted as a graphic designer for a mar
 
 ## **Experiences** ##
 - **MJ Coffee & Tea**  
-_*Sep 2018 - Dec 2018*_  
+_Sep 2018 - Dec 2018_  
 Art Director & Content Creator for coffee shop MJ Coffee & Tea
 
 - **Delamibrands**  
-_*Aug 2019 - Nov 2019*_  
+_Aug 2019 - Nov 2019_  
 Internship program at Delamibrands' Product Development division.
 
 - **BISFOODS INDONESIA**    
-_*Oct 2020 - Aug 2022*_    
+_Oct 2020 - Aug 2022_    
 Full time Graphic Designer for Pet related products
 
 ## **Hobbies** ##
