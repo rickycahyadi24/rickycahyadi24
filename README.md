@@ -40,8 +40,6 @@ My hobbies are mostly nature related activities, such as Hiking, Camping. Trekki
 
 # __*CIAO*__ #
 
-theme: minima
-
 <!--
 **rickycahyadi24/rickycahyadi24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
